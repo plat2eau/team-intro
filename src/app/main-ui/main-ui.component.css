@@ -1,0 +1,130 @@
+h1 {
+    font-size: 4.1em;
+    font-weight: 600;
+    color: #545454;
+    margin-top: 5%;
+}
+
+h2 {
+    font-size: 2.6em;
+    font-weight: 450;
+    color: #545454;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 450;
+    color: #7A7A7A;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 1.85em;
+    font-weight: 450;
+    color: #7A7A7A;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-size: 1.5em;
+    font-weight: 250;
+    font-style: oblique;
+    color: #7A7A7A;
+}
+
+hr {
+    margin-top: 25px;
+    width: 100%;
+    margin: 25px 0px 50px 0px;
+    opacity: 0.5;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+table {
+    height: 100px;
+    margin: 50px 0px 0px;
+    border: 0.5px #cccccc solid;
+    border-spacing: 0;
+}
+
+.about-container {
+    overflow: hidden;
+    position: relative;
+    max-width: 100%;
+    padding: 15px;
+}
+
+.all-skills {
+    margin-top: 8%;
+}
+
+.body-container {
+    width: 50%;
+    float: left;
+    margin: 25px 100px;
+    position: relative;
+}
+
+.image-container {
+    height: 100vh;
+    width: 35%;
+    float: left;
+}
+
+.main-container {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+}
+
+.skill {
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    position: relative;
+}
+
+.skill-icon {
+    height: 64px;
+    width: 64px;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+.skill-icon-container {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.skill-name {
+    text-align: center;
+    font-size: 1em;
+    font-weight: 400;
+    color: #7A7A7A;
+    margin: 10px;
+}
+
+.skill-text {
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: 450;
+    color: #ffffff;
+}
+
+#aboutme {
+    width: inherit;
+    font-size: 1.1em;
+    font-weight: 250;
+    font-style: oblique;
+    color: #7A7A7A;
+    text-align: left;
+}
+
+#skills {
+    background-color: #979797;
+}
